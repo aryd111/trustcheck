@@ -99,7 +99,7 @@ The first run downloads the [SMS Spam Collection](https://archive.ics.uci.edu/da
 
 ## How this was built
 
-Built by Aryamann Dhall with help from Claude, Anthropic's AI assistant, which I used to plan the project and write and review code. I can walk through every part of it, and the code comments explain each step.
+Built by Aryamann Dhall.
 
 ## Credits
 
